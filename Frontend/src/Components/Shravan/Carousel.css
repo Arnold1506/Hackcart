@@ -1,0 +1,14 @@
+.catergorycard-container{
+  text-align: center;
+  border: 1px solid rgb(73, 68, 68);
+  border-radius: 5px;
+  padding:5px 0px;
+}
+.catergorycard-container:hover{
+  background-color: rgb(94, 93, 93);
+  border: 1px solid white;
+}
+.carousel .thumbs.animated{
+  display: none;
+}
+
